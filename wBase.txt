@@ -1,1 +1,1 @@
-{"version":"6.36","oldVersion":"6.356","currentVersion":"6.356"}
+{"version":"6.37","oldVersion":"6.36","currentVersion":"6.36"}
