@@ -1,1 +1,1 @@
-{"version":"6.405","oldVersion":"6.404","currentVersion":"6.404"}
+{"version":"6.406","oldVersion":"6.405","currentVersion":"6.405"}
